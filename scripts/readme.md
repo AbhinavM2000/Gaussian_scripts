@@ -1,3 +1,3 @@
 ##Notes : 
 
-1. bh.py.out needs to be in same folder.
+> bh.py.out needs to be in same folder.
